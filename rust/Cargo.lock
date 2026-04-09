@@ -15,7 +15,7 @@ dependencies = [
 
 [[package]]
 name = "ai-devops"
-version = "0.1.0"
+version = "5.0.0"
 dependencies = [
  "anyhow",
  "async-channel 1.9.0",

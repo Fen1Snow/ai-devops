@@ -14,7 +14,7 @@ async fn main() -> anyhow::Result<()> {
     // 初始化日志
     tracing_subscriber::fmt::init();
     
-    println!("🚀 AI DevOps Platform v0.1.0");
+    println!("🚀 AI DevOps Platform v5.0.0");
     println!("============================\n");
     
     // 初始化存储
