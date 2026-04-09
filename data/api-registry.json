@@ -1,0 +1,14 @@
+[
+  {
+    "api_id": "api_1775734473640_lrkgf3nm3",
+    "service_name": "test-service-1775734473640",
+    "version": "1.0.0",
+    "project_id": null,
+    "openapi_spec": {
+      "openapi": "3.0.0",
+      "paths": {}
+    },
+    "created_at": "2026-04-09T11:34:33.640Z",
+    "updated_at": "2026-04-09T11:34:33.640Z"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "ai-devops-control-plane",
+  "version": "1.0.0",
+  "description": "AI DevOps 控制中枢系统 - 支持多项目管理、自动化部署、AI代码生成",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "node tests/run-tests.js"
+  },
+  "keywords": [
+    "ai",
+    "devops",
+    "automation",
+    "ci/cd",
+    "deployment"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0",
+    "simple-git": "^3.22.0",
+    "node-ssh": "^13.1.0",
+    "axios": "^1.6.0",
+    "@kubernetes/client-node": "^0.20.0"
+  }
+}

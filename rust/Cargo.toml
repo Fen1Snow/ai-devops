@@ -1,0 +1,48 @@
+[package]
+name = "ai-devops"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# 异步运行时
+tokio = { version = "1", features = ["full"] }
+
+# 序列化
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+# 日期时间
+chrono = { version = "0.4", features = ["serde"] }
+
+# UUID
+uuid = { version = "1", features = ["v4", "serde"] }
+
+# HTTP客户端
+reqwest = { version = "0.11", features = ["json"] }
+
+# 命令执行
+async-process = "1"
+
+# 日志
+tracing = "0.1"
+tracing-subscriber = "0.3"
+
+# 错误处理
+thiserror = "1"
+anyhow = "1"
+
+# 文件系统
+dirs = "5"
+
+# 配置
+config = "0.13"
+
+# 并发
+parking_lot = "0.12"
+once_cell = "1"
+
+# 异步通道
+async-channel = "1"
+
+[dev-dependencies]
+tokio-test = "0.4"

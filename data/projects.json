@@ -1,0 +1,40 @@
+[
+  {
+    "project_id": "proj_1775733290710_fgt9w6ndk",
+    "name": "test-app",
+    "repo": "https://github.com/test/test-app.git",
+    "path": "/tmp/test-app",
+    "servers": {
+      "dev": "dev-server:22",
+      "prod": "prod-server:22"
+    },
+    "deploy_type": "docker",
+    "created_at": "2026-04-09T11:14:50.710Z",
+    "updated_at": "2026-04-09T11:14:50.711Z"
+  },
+  {
+    "project_id": "proj_1775734103060_6j3ledwmz",
+    "name": "test-project",
+    "repo": "https://github.com/test/test.git",
+    "path": "/tmp/test-project",
+    "servers": {
+      "dev": "dev-server:22",
+      "prod": "prod-server:22"
+    },
+    "deploy_type": "docker",
+    "created_at": "2026-04-09T11:28:23.060Z",
+    "updated_at": "2026-04-09T11:28:23.238Z"
+  },
+  {
+    "project_id": "proj_1775734473611_ioysfii54",
+    "name": "test-app-1775734473610",
+    "repo": "https://github.com/test/test.git",
+    "path": "/tmp/test-app-1775734473610",
+    "servers": {
+      "dev": "dev-server:22"
+    },
+    "deploy_type": "docker",
+    "created_at": "2026-04-09T11:34:33.611Z",
+    "updated_at": "2026-04-09T11:34:33.611Z"
+  }
+]

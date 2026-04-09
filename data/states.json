@@ -1,0 +1,59 @@
+{
+  "7e11fda3-7fea-4331-b61e-12b277b85760": {
+    "task_id": "7e11fda3-7fea-4331-b61e-12b277b85760",
+    "ai_status": "running",
+    "git_status": "idle",
+    "build_status": "idle",
+    "deploy_status": "idle",
+    "verify_status": "idle",
+    "combined_status": "running",
+    "last_updated": "2026-04-09T11:28:23.530Z",
+    "history": [
+      {
+        "type": "ai",
+        "from": "idle",
+        "to": "running",
+        "metadata": {},
+        "timestamp": "2026-04-09T11:28:23.530Z"
+      }
+    ]
+  },
+  "test-task-1775734360366": {
+    "task_id": "test-task-1775734360366",
+    "ai_status": "running",
+    "git_status": "idle",
+    "build_status": "idle",
+    "deploy_status": "idle",
+    "verify_status": "idle",
+    "combined_status": "running",
+    "last_updated": "2026-04-09T11:32:40.369Z",
+    "history": [
+      {
+        "type": "ai",
+        "from": "idle",
+        "to": "running",
+        "metadata": {},
+        "timestamp": "2026-04-09T11:32:40.369Z"
+      }
+    ]
+  },
+  "test-task-1775734473631": {
+    "task_id": "test-task-1775734473631",
+    "ai_status": "running",
+    "git_status": "idle",
+    "build_status": "idle",
+    "deploy_status": "idle",
+    "verify_status": "idle",
+    "combined_status": "running",
+    "last_updated": "2026-04-09T11:34:33.634Z",
+    "history": [
+      {
+        "type": "ai",
+        "from": "idle",
+        "to": "running",
+        "metadata": {},
+        "timestamp": "2026-04-09T11:34:33.634Z"
+      }
+    ]
+  }
+}

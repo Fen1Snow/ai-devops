@@ -1,0 +1,21 @@
+{
+	"rust-analyzer.linkedProjects": [
+		{
+			"sysroot": "",
+			"crates": [
+				{
+					"root_module": "rust\\target\\debug\\build\\serde_core-89947787ece3a466\\out\\private.rs",
+					"display_name": "rust_target_debug_build_serde_core-89947787ece3a466_out_private",
+					"edition": "2021",
+					"deps": []
+				},
+				{
+					"root_module": "rust\\target\\debug\\build\\serde-afe1acbcc42b1940\\out\\private.rs",
+					"display_name": "rust_target_debug_build_serde-afe1acbcc42b1940_out_private",
+					"edition": "2021",
+					"deps": []
+				}
+			]
+		}
+	]
+}
